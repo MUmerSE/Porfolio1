@@ -1,0 +1,9 @@
+{
+    "name": "muhammad-umer-portfolio",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Muhammad Umer's Premium Portfolio Website",
+    "dependencies": {
+        "nodemailer": "^6.9.16"
+    }
+}
